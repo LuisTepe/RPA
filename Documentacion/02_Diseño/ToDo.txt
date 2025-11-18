@@ -1,0 +1,2 @@
+Diagramas de flujo
+Documento de Diseño de Solución (SDD) 

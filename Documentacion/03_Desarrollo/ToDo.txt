@@ -1,0 +1,4 @@
+código del bot
+scripts
+archivos de configuración 
+Documento de Especificación de Desarrollo 

@@ -1,0 +1,1 @@
+plan y casos de prueba para validar la automatización 
