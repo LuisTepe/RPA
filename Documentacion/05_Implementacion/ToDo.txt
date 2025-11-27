@@ -1,4 +1,0 @@
-registros de despliegue
-scripts de instalación
-notas de versión
-plan de migración
